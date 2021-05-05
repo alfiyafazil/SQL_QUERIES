@@ -1,0 +1,1 @@
+ALTER TABLE details MODIFY COLUMN Name varchar(30)
